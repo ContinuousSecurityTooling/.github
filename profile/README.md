@@ -1,0 +1,5 @@
+# Continuous Security Tools
+
+ContinuousSecurityTooling is a collaborative GitHub organization focused on improving the state of security automation and continuous security integration in modern development workflows. The group maintains a collection of open-source tools, scripts, and frameworks that help developers and DevSecOps teams embed security checks seamlessly into CI/CD pipelines. By automating key security tasks—such as vulnerability scanning, configuration validation, and code analysis—these projects aim to shift security left and empower teams to build safer software from the start.
+
+With a strong emphasis on modularity, usability, and community contributions, ContinuousSecurityTooling serves as a valuable resource for both security practitioners and software engineers striving to adopt a DevSecOps mindset. Whether you're looking to harden your infrastructure or integrate security gates into your deployment cycle, this group provides practical tools and guidance to support secure development at scale.
